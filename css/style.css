@@ -334,8 +334,12 @@ h6 {
 }
 
 .person-social__link {
-  color: #2B2B2B;
-  font-size: 1.5rem;
+  fill: #2B2B2B;
+}
+
+.person-social__link svg {
+  width: 24px;
+  height: 24px;
 }
 
 .about::before {
@@ -490,9 +494,16 @@ h6 {
   color: #2B2B2B;
 }
 
+.item-contacts svg {
+  fill: #2B2B2B;
+  width: 20px;
+  height: 20px;
+}
+
 .hero {
   background-color: #fff;
   height: 100%;
+  position: relative;
 }
 
 .hero__title {
@@ -536,37 +547,37 @@ h6 {
 
 .icons-hero__item_1 {
   top: 4.5454545455%;
-  left: 690px;
+  left: 6.9811320755%;
 }
 
 .icons-hero__item_2 {
-  top: 6.25%;
-  left: 63.3774834437%;
+  top: 9.0909090909%;
+  left: 50.1324503311%;
 }
 
 .icons-hero__item_3 {
-  top: 6.6666666667%;
-  left: 81.7948717949%;
+  top: 14.5454545455%;
+  left: 90.3418803419%;
 }
 
 .icons-hero__item_4 {
-  top: 40%;
-  left: 40.0617283951%;
+  top: 90%;
+  left: 9.1975308642%;
 }
 
 .icons-hero__item_5 {
-  top: 34.5454545455%;
-  left: 57.0987654321%;
+  top: 83.6363636364%;
+  left: 38.5802469136%;
 }
 
 .icons-hero__item_6 {
-  top: 30%;
-  left: 75.3703703704%;
+  top: 70%;
+  left: 69.1975308642%;
 }
 
 .icons-hero__item_7 {
-  top: 40%;
-  right: 15.625rem;
+  top: 90%;
+  right: 4.5454545455%;
 }
 
 .portfolio {
